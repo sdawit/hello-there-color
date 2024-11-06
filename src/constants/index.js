@@ -1,0 +1,1 @@
+export const DEFAULT_COLOR = '#f0f0f0';
